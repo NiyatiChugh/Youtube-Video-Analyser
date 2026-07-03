@@ -1,6 +1,6 @@
 # ▶️ YT Analyzer AI (Python Edition)
 
-Analyze any YouTube video with Gemini AI — get a summary, detailed notes, study topics, and action items in seconds.
+Analyze any YouTube video with Gemini AI and get a summary, detailed notes, study topics, and action items in seconds.
 
 ## Stack
 
