@@ -8,7 +8,7 @@ Analyze any YouTube video with Gemini AI and get a summary, detailed notes, stud
 | -------- | ------------------------------------------- |
 | Backend  | FastAPI + uvicorn                           |
 | Frontend | Streamlit                                   |
-| AI       | Gemini 2.0 Flash (via REST)                 |
+| AI       | Gemini 2.0 Flash                 |
 | Storage  | Python `shelve`(keys hashed with SHA-256) |
 | HTTP     | `httpx`                                   |
 
